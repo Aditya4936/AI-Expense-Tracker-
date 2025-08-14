@@ -22,9 +22,3 @@ A modern, AI-powered expense tracking web application built with Next.js 15, fea
 - **Statistics Dashboard**: Comprehensive spending analytics
 - **Expense History**: Complete transaction history with search and filter
 
-
----
-
-**Built with ❤️ by [Sahand Ghavidel](https://github.com/sahandghavidel)**
-
-_Demonstrating modern full-stack development with AI integration, completely free to build and deploy._
