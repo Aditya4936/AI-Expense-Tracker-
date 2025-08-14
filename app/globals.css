@@ -19,3 +19,9 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+.cl-footer{
+  display: none !important;
+}
+.cl-userButtonPopoverFooter{
+  display: none !important;
+}
